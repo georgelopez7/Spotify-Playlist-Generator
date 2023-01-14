@@ -2,7 +2,6 @@
 
 ![title_page_new](https://user-images.githubusercontent.com/71076769/212480550-bfd13c81-8541-4491-ab67-f669986897ad.png)
 
-> This is a ReadMe template to help save you time and effort.
 
 ---
 
