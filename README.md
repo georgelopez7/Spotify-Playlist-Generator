@@ -72,7 +72,7 @@ If a user inputs the following command:
 
 The user will be asked to confirm their input:
 
-![ex1](https://user-images.githubusercontent.com/71076769/212480559-9312ff1e-58fd-496b-bb1c-efcf3b81af95.png)
+![ex1-edit](https://user-images.githubusercontent.com/71076769/212480706-d1cf49de-14be-419b-8a16-36ed4f7128ab.png)
 
 Then the user's playlist will be created:
 
