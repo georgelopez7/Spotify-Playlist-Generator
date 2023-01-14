@@ -17,7 +17,7 @@
 
 ## Description
 
-This project is a script that creates a spotify playlist fro a user based on a user's inputted string. 
+This project is a script that creates a spotify playlist based on a user's inputted string. 
 
 ---
 ## Technologies
